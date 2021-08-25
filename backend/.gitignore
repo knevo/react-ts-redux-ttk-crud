@@ -1,0 +1,8 @@
+node_modules
+logs
+archive
+.vscode
+.env
+.env-prod
+config/development
+services/scripts.js
